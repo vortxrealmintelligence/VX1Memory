@@ -1,0 +1,386 @@
+# VORTX MASTER TIMETABLE
+
+## Target Launch
+
+🎉 Launch Date: 15 September 2026 (Birthday Release)
+
+---
+
+# OVERALL PROGRESS
+
+Overall Project
+[██████████░░░░░░░░░░░░░░░░] 35%
+
+Website
+[█████████████████████████░] 100%
+
+Backend
+[░░░░░░░░░░░░░░░░░░░░░░░░░] 0%
+
+VX1
+[██░░░░░░░░░░░░░░░░░░░░░░░] 8%
+
+AI Engine
+[░░░░░░░░░░░░░░░░░░░░░░░░░] 0%
+
+---
+
+# COMPLETED
+
+## Phase 0 — Planning & Architecture
+
+- [x] Vision
+- [x] Project Planning
+- [x] Folder Architecture
+- [x] Coding Rules
+- [x] File Organization
+- [x] Modular Design
+- [x] Design Philosophy
+- [x] Future Expansion Plan
+
+Status
+
+✅ Finished
+
+---
+
+## Phase 1 — VX Material Engine
+
+- [x] Material Surface
+- [x] Material Bevel
+- [x] Ambient Occlusion
+- [x] Specular Layer
+- [x] Hover Physics
+- [x] Shadows
+- [x] Radius System
+- [x] Theme Tokens
+- [x] Material Renderer
+- [x] Panel Physics
+
+Status
+
+✅ Finished
+
+---
+
+## Phase 2 — Component Library
+
+### Panels
+
+- [x] VXPanel
+
+### Buttons
+
+- [x] Capsule Button
+- [x] Circle Button
+- [x] Hover Animation
+- [x] Button Physics
+
+### Typography
+
+- [x] Typography Component
+- [x] Tokens
+- [x] Fonts
+
+Status
+
+✅ Finished
+
+---
+
+## Phase 3 — Adaptive Engine
+
+- [x] Breakpoints
+- [x] Adaptive Modes
+- [x] Responsive Presets
+- [x] Container System
+
+Status
+
+✅ Finished
+
+---
+
+## Phase 4 — Website Foundation
+
+- [x] Website Layout
+- [x] Website Shell
+- [x] Global Theme
+- [x] Branding Assets
+
+Status
+
+✅ Finished
+
+---
+
+## Phase 5 — Navbar
+
+- [x] Brand
+- [x] Logo
+- [x] Brand Text
+- [x] Navigation
+- [x] User Button
+- [x] Mobile Menu
+- [x] Scroll Physics
+- [x] Adaptive Navbar
+- [x] Route Navigation
+- [x] Full Page Blur
+
+Status
+
+✅ Finished
+
+---
+
+## Phase 6 — Hero
+
+- [x] Hero Panel
+- [x] Hero Layout
+- [x] Hero Brand
+- [x] Hero Headline
+- [x] Hero Description
+- [x] CTA Buttons
+- [x] Engine Status
+- [x] Responsive Hero
+- [x] Desktop Layout
+- [x] Mobile Layout
+
+Status
+
+✅ Finished
+
+---
+
+## Phase 7 — Homepage
+
+- [x] Homepage Products
+- [x] VX1 Product Panel
+- [x] Launch Button
+- [x] Coming Soon Panel
+- [x] Footer
+- [x] Responsive Homepage
+- [x] Homepage Polish
+
+Status
+
+✅ Finished
+
+---
+
+# CURRENT PHASE
+
+## Phase 8 — Website Features
+
+### Home
+
+- [ ] Hero Buttons
+- [ ] VX1 Launch Button
+- [ ] Coming Soon Panel
+- [ ] Footer Links
+
+### Products
+
+- [ ] Products Hero
+- [ ] VX1 Showcase
+- [ ] Product Features
+- [ ] Technology Section
+
+### Documentation
+
+- [ ] Documentation Homepage
+- [ ] VX Material Engine
+- [ ] Adaptive Engine
+- [ ] Components
+- [ ] FAQ
+
+### Roadmap
+
+- [ ] Timeline
+- [ ] Progress Tracker
+- [ ] Future Goals
+
+### Contact
+
+- [ ] Contact Page
+- [ ] Email Actions
+- [ ] Social Links
+
+---
+
+# WEBSITE POLISH
+
+- [ ] Loading States
+- [ ] Hover Polish
+- [ ] SEO
+- [ ] Metadata
+- [ ] Accessibility
+- [ ] Performance Optimization
+
+---
+
+# BACKEND
+
+- [ ] Authentication
+- [ ] Database
+- [ ] Upload API
+- [ ] Cloud Sync
+
+---
+
+# VX1 APPLICATION
+
+- [ ] Workspace
+- [ ] Image Viewer
+- [ ] Video Viewer
+- [ ] Settings
+- [ ] Export
+
+---
+
+# AI ENGINE
+
+- [ ] WebGPU
+- [ ] AI Models
+- [ ] Enhancement
+- [ ] Optimization
+
+---
+
+# TESTING
+
+- [ ] Desktop
+- [ ] Laptop
+- [ ] Tablet
+- [ ] Mobile
+
+---
+
+# RELEASE
+
+- [ ] Documentation
+- [ ] Deploy Website
+- [ ] Deploy Backend
+- [ ] Release VX1 MVP
+
+---
+
+# DAILY LOG
+
+## July
+
+### 1
+- [x]
+
+### 2
+- [x]
+
+### 3
+- [x]
+
+### 4
+- [x]
+
+### 5
+- [x]
+
+### 6
+- [x]
+
+### 7
+- [x]
+
+### 8
+- [x]
+
+### 9
+- [x]
+
+### 10
+- [x]
+
+### 11
+- [x]
+
+### 12
+- [x]
+
+### 13
+- [x]
+
+### 14
+- [x]
+
+### 15
+- [x]
+
+### 16
+- [x]
+
+### 17
+- [ ]
+
+### 18
+- [ ]
+
+### 19
+- [ ]
+
+### 20
+- [ ]
+
+### 21
+- [ ]
+
+### 22
+- [ ]
+
+### 23
+- [ ]
+
+### 24
+- [ ]
+
+### 25
+- [ ]
+
+### 26
+- [ ]
+
+### 27
+- [ ]
+
+### 28
+- [ ]
+
+### 29
+- [ ]
+
+### 30
+- [ ]
+
+### 31
+- [ ]
+
+---
+
+# AUGUST
+
+Complete one check every day.
+
+- [ ]
+
+---
+
+# SEPTEMBER
+
+### 1–14
+
+- [ ]
+
+### 15
+
+🎉 VORTX 1.0 MVP RELEASE
+
+- [ ] Launch Website
+- [ ] Launch VX1 MVP
